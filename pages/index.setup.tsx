@@ -2,6 +2,7 @@
 
 export default () => (
   <div>
-    <h1>Index</h1>
+    <span class="text-h4">Index</span>
+    <q-btn to="/login" color="primary" label="Login" />
   </div>
 )
