@@ -4,7 +4,9 @@ export default defineNuxtConfig({
   modules: ['@vue-macros/nuxt', 'nuxt-quasar-ui'],
   macros: {
     setupSFC: true,
-    
+    shortVmodel: {
+      prefix: '$'
+    }
   },
 
   vite: {

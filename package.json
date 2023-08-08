@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@quasar/extras": "^1.16.5",
-    "@vue-macros/nuxt": "^1.6.0",
+    "@vue-macros/nuxt": "^1.7.0",
     "nuxt-quasar-ui": "^2.0.5",
     "quasar": "^2.12.4"
   }
